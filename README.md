@@ -1,5 +1,5 @@
 # Are You Smarter than a Fetus
-This is the final product of BINUS University's Software Engineering class.
+This is the final product of our group's project in BINUS University's Software Engineering class.
 
 ## Group Members
 - Nico Marcelino - 2501964226
